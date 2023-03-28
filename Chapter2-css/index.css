@@ -1,0 +1,30 @@
+
+.bg-black {
+    background-color: black;
+}
+
+.fg-red {
+    color: red;
+}
+
+.fg-white {
+    color: white;
+}
+
+.fg-blue {
+    color: blue;
+}
+
+/* .e-asfalizomai-header {
+    color: blue;
+    background-color: black;
+}
+
+.webdev-header {
+    color: red;
+    background-color: black;
+} */
+.webdev-text {
+   color: white; 
+   background-color: black;
+}
